@@ -1,0 +1,4 @@
+Four notebooks in this folder! Two for WT Tau-5 and two for W397A/W433A mutant. 
+The ensemble notebook assesses helical propensity/Rg/Sa values 
+The reweighting notebook is looking at various combinations of reweighting data (either using CSPs or using CD or using both!
+  This notebook also provides the predicted CD spectra and compares how the reweighting can improve predictions
